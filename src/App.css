@@ -1,0 +1,56 @@
+.nav{
+  position:absolute; right:0;
+}
+
+/* .me {
+  position:absolute;
+  bottom: 1px;
+  right: 1px;
+  
+} */
+
+/* .me
+{
+ background:url('me.png');
+ 
+ bottom: 1px;
+ right: 1px;
+ background-repeat: no-repeat;
+ 
+ background-position: bottom right;
+} */
+
+.bottomleft {
+  position: absolute;
+  bottom: 0px;
+  left: 0px;
+  
+}
+
+.bottomright {
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
+  
+}
+
+.hero-title{
+  font-size: 9rem;
+}
+
+.subtitle-2{
+  font-size: 3rem;
+}
+
+.subsubtitle-2{
+  font-size: 2rem;
+}
+
+.google{
+  height: auto;
+  width: 50%;
+}
+
+.active, .btn:hover {
+  background-color: #666;
+  color: white; }
