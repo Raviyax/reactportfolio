@@ -7,7 +7,7 @@ function WhatIDo() {
         <div className="columns">
           <div className="column is-4 pl-0 is-align-self-flex-end is-pulled-left">
             <figure className="image is-256x256 mb-0">
-              <img src="p3.png" />
+              <img src="p3.png" alt="p3" />
             </figure>
           </div>
           <div className="column is-2"></div>

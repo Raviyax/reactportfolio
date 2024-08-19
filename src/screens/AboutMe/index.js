@@ -36,7 +36,7 @@ function AboutMe() {
           </div>
           <div className="column is-7 ">
             <figure className="image is-256x256 mb-0">
-              <img src="me.png" />
+              <img src="me.png" alt="me" />
             </figure>
           </div>
         </div>

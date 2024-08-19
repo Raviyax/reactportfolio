@@ -11,7 +11,7 @@ function MyWork() {
                 <div className="columns">
                   <div className="column">
                     <figure className="image">
-                      <img src="docapp.png" />
+                      <img src="docapp.png" about="docapp" />
                     </figure>
                     <h1
                       className="has-text-weight-semibold has-text-centered "
@@ -28,7 +28,7 @@ function MyWork() {
                 <div className="columns">
                   <div className="column">
                     <figure className="image is-256x256">
-                      <img src="desktop.png" />
+                      <img src="desktop.png" alt="desktop" />
                     </figure>
                     <h1
                       className="has-text-weight-semibold has-text-centered "
@@ -53,11 +53,11 @@ function MyWork() {
               My Work
             </h1>
             <figure className="image is-256x256 mt-6 ">
-              <img src="pos.png" />
+              <img src="pos.png" alt="pos" />
             </figure>
             <div className="section">
               <figure className="image google is-pulled-right ">
-                <img className="google" src="google.PNG" />
+                <img className="google" src="google.PNG" alt="google" />
               </figure>
             </div>
           </div>

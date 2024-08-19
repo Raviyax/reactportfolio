@@ -87,7 +87,7 @@ function Quali() {
           </div>
           <div className="column is-8">
             <figure className="image is-256x256 ">
-              <img src="p4.jpg" />
+              <img src="p4.jpg" alt="p4" />
             </figure>
           </div>
         </div>
