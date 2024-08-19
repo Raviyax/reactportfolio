@@ -11,7 +11,7 @@ function MyWork() {
                 <div className="columns">
                   <div className="column">
                     <figure className="image">
-                      <img src="docapp.png" about="docapp" />
+                      <img src="docapp.png" alt="docapp" />
                     </figure>
                     <h1
                       className="has-text-weight-semibold has-text-centered "
